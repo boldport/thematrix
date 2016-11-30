@@ -447,10 +447,10 @@
       "footprint": "ams-logo", 
       "layer": "top", 
       "location": [
-        54.435992, 
-        -9.306181
+        54.381232, 
+        -9.032379
       ], 
-      "scale": 1.1, 
+      "scale": 1.2, 
       "show": true
     }, 
     "BP-dots": {
@@ -466,8 +466,8 @@
       "footprint": "eurocircuits-logo", 
       "layer": "top", 
       "location": [
-        41.785996, 
-        -9.606152
+        42.151066, 
+        -9.478378
       ], 
       "scale": 0.95, 
       "show": true

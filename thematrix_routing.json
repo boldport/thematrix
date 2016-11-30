@@ -149,6 +149,12 @@
         "type": "path", 
         "value": "m 56.950497,4.3642726 c -0.288111,0.00994 -1.557068,0.018824 -1.557068,0.018824"
       }, 
+      "3abcb9e13": {
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 61.375427,5.4661485 C 61.35331,6.8381409 57.606516,6.8214814 56.473712,6.8823076"
+      }, 
       "3ba326b47": {
         "buffer-to-pour": 0.0, 
         "stroke-width": 0.2, 
@@ -492,12 +498,6 @@
         "style": "stroke", 
         "type": "path", 
         "value": "m 57.108142,3.5616055 c 3.230613,0.085427 3.546266,-0.1813004 3.497643,-0.9574593 -0.0713,-1.1381317 1.541015,-6.4810547 0.273536,-8.7754469 -0.18353,-0.3322268 -1.189295,-0.1996152 -1.48218,-0.2221827"
-      }, 
-      "cdd032bd9": {
-        "stroke-width": 0.2, 
-        "style": "stroke", 
-        "type": "path", 
-        "value": "M 60.600996,6.447094 C 60.269107,6.7606978 57.116043,6.8214814 56.473712,6.8823076"
       }, 
       "d17447f47": {
         "stroke-width": 0.2, 
@@ -1203,12 +1203,6 @@
         "type": "path", 
         "value": "m 7.6278153,-0.38807633 c 0.7702384,0.225223 0.7220504,2.89268913 -0.07864,3.34069103"
       }, 
-      "57aab3164": {
-        "stroke-width": 0.2, 
-        "style": "stroke", 
-        "type": "path", 
-        "value": "M 60.674111,6.3776751 C 60.448412,3.2133201 60.417248,-0.30451197 59.861284,-2.2394203"
-      }, 
       "58ecc072b": {
         "stroke-width": 0.2, 
         "style": "stroke", 
@@ -1838,6 +1832,12 @@
         "type": "path", 
         "value": "m -17.269889,8.8860102 c 0.301819,0.2002894 0.621878,0.4731924 0.623125,0.8209948"
       }, 
+      "cf08c6552": {
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 61.371099,5.3192866 C 61.1454,2.1549316 60.417248,-0.30451197 59.861284,-2.2394203"
+      }, 
       "cf0fcaaf1": {
         "stroke-width": 0.2, 
         "style": "stroke", 
@@ -2006,12 +2006,6 @@
         "type": "path", 
         "value": "m -49.985052,-0.99922548 c -0.325411,0.62308115 -0.183934,1.0307575 0.295294,1.4700885"
       }, 
-      "e53e8412f": {
-        "stroke-width": 0.2, 
-        "style": "stroke", 
-        "type": "path", 
-        "value": "M 58.042049,4.8296591 C 56.392077,4.9190663 52.832817,7.5670096 50.990633,5.984432 47.855415,3.2910388 50.535633,-6.4209526 46.075924,-6.2629576"
-      }, 
       "e84e97743": {
         "stroke-width": 0.2, 
         "style": "stroke", 
@@ -2071,6 +2065,12 @@
         "style": "stroke", 
         "type": "path", 
         "value": "m -42.082829,6.902994 c -0.325411,0.6230814 -0.183934,1.0307578 0.295294,1.4700888"
+      }, 
+      "f372671da": {
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 58.042049,4.8296591 C 56.392077,4.9190663 52.781188,6.6635072 50.939004,5.0809296 47.803786,2.3875364 50.535633,-6.4209526 46.075924,-6.2629576"
       }, 
       "f37be13b8": {
         "stroke-width": 0.2, 
@@ -2272,7 +2272,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         30.340178, 
@@ -2310,7 +2310,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -52.633144, 
@@ -2329,7 +2329,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -9.170924, 
@@ -2367,7 +2367,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         26.38907, 
@@ -2443,7 +2443,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -24.975368, 
@@ -2481,7 +2481,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -13.122043, 
@@ -2557,7 +2557,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -21.024259, 
@@ -2595,7 +2595,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -40.779812, 
@@ -2633,7 +2633,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -32.877587, 
@@ -2652,7 +2652,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -44.730918, 
@@ -2671,7 +2671,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         22.437962, 
@@ -2728,7 +2728,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -9.170937, 
@@ -2842,7 +2842,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -17.073151, 
@@ -2861,7 +2861,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -5.219811, 
@@ -2994,7 +2994,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -36.828704, 
@@ -3032,7 +3032,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -24.975363, 
@@ -3222,7 +3222,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -5.219811, 
@@ -3241,7 +3241,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -48.682036, 
@@ -3279,7 +3279,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         30.340178, 
@@ -3298,7 +3298,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         18.486854, 
@@ -3317,7 +3317,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -28.926488, 
@@ -3336,7 +3336,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -1.268702, 
@@ -3355,7 +3355,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         2.682406, 
@@ -3374,7 +3374,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -60.53536, 
@@ -3469,7 +3469,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -60.53536, 
@@ -3488,7 +3488,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         18.486854, 
@@ -3526,7 +3526,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -32.877596, 
@@ -3545,7 +3545,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         14.535745, 
@@ -3602,7 +3602,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -36.828704, 
@@ -3659,7 +3659,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -44.73092, 
@@ -3678,7 +3678,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -1.268702, 
@@ -3735,7 +3735,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -24.975368, 
@@ -3773,7 +3773,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -24.975368, 
@@ -3811,7 +3811,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         26.38907, 
@@ -3849,7 +3849,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -48.682036, 
@@ -3906,7 +3906,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         2.682406, 
@@ -3944,7 +3944,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -24.975368, 
@@ -3963,7 +3963,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         26.38907, 
@@ -4115,7 +4115,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -56.584252, 
@@ -4153,7 +4153,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -52.633144, 
@@ -4172,7 +4172,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -32.877596, 
@@ -4210,7 +4210,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -36.828704, 
@@ -4248,7 +4248,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         10.584624, 
@@ -4286,7 +4286,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         22.437962, 
@@ -4343,7 +4343,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         10.584624, 
@@ -4381,7 +4381,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -44.73092, 
@@ -4457,7 +4457,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -32.877596, 
@@ -4476,7 +4476,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -48.682036, 
@@ -4495,7 +4495,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         26.38907, 
@@ -4514,7 +4514,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         2.682406, 
@@ -4552,7 +4552,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         22.437953, 
@@ -4571,7 +4571,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -60.53536, 
@@ -4609,7 +4609,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -17.073151, 
@@ -4704,7 +4704,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -21.024259, 
@@ -4742,7 +4742,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -36.828704, 
@@ -4761,7 +4761,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         14.535745, 
@@ -4799,7 +4799,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         14.535745, 
@@ -4818,7 +4818,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -13.122035, 
@@ -4837,13 +4837,32 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -5.219811, 
         0.000431
       ], 
       "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "7fef25af1": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via-l", 
+      "layer": "top", 
+      "location": [
+        61.377138, 
+        -5.438362
+      ], 
+      "rotate": 0, 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -4875,7 +4894,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -1.268702, 
@@ -4970,7 +4989,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -52.633139, 
@@ -5027,7 +5046,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -5.219811, 
@@ -5065,7 +5084,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -56.58425, 
@@ -5084,7 +5103,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -56.584252, 
@@ -5160,7 +5179,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -48.682036, 
@@ -5179,7 +5198,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         26.38907, 
@@ -5217,7 +5236,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -9.170937, 
@@ -5236,7 +5255,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         6.633514, 
@@ -5255,7 +5274,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -48.682028, 
@@ -5274,7 +5293,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -1.268702, 
@@ -5369,7 +5388,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -28.926475, 
@@ -5426,7 +5445,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -5.219815, 
@@ -5464,7 +5483,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -52.633144, 
@@ -5502,7 +5521,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         22.437962, 
@@ -5540,7 +5559,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -28.926488, 
@@ -5673,7 +5692,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         6.633514, 
@@ -5711,7 +5730,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -1.268702, 
@@ -5787,7 +5806,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -60.53536, 
@@ -5863,7 +5882,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -32.877596, 
@@ -5901,7 +5920,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -56.584252, 
@@ -5939,7 +5958,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -40.779808, 
@@ -5958,7 +5977,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         30.340178, 
@@ -6072,7 +6091,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -21.024255, 
@@ -6091,7 +6110,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         18.486845, 
@@ -6129,7 +6148,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -21.024259, 
@@ -6148,7 +6167,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         6.633518, 
@@ -6186,7 +6205,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -28.926488, 
@@ -6262,7 +6281,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         10.584624, 
@@ -6300,7 +6319,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -9.170937, 
@@ -6319,7 +6338,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -9.170937, 
@@ -6395,7 +6414,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         30.340178, 
@@ -6433,7 +6452,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         2.682406, 
@@ -6509,7 +6528,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         18.486854, 
@@ -6604,7 +6623,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -40.779812, 
@@ -6623,7 +6642,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         10.584624, 
@@ -6642,7 +6661,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -21.024259, 
@@ -6680,7 +6699,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -52.633144, 
@@ -6718,7 +6737,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -36.828698, 
@@ -6737,7 +6756,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -13.122043, 
@@ -6794,7 +6813,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         6.633514, 
@@ -6832,7 +6851,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -13.122043, 
@@ -6851,7 +6870,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         6.633514, 
@@ -6965,7 +6984,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -17.073151, 
@@ -7003,7 +7022,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -44.73092, 
@@ -7041,7 +7060,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         18.486854, 
@@ -7193,7 +7212,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -17.073143, 
@@ -7231,7 +7250,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -13.122043, 
@@ -7307,7 +7326,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         22.437962, 
@@ -7364,7 +7383,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -28.926488, 
@@ -7402,7 +7421,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -40.779812, 
@@ -7421,7 +7440,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -17.073151, 
@@ -7440,7 +7459,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -56.584252, 
@@ -7459,7 +7478,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         14.535736, 
@@ -7478,7 +7497,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         10.584633, 
@@ -7516,7 +7535,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         14.535745, 
@@ -7592,32 +7611,13 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         30.340178, 
         0.000431
       ], 
       "rotate": -45, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "f2ac8c2f6": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "via-l", 
-      "layer": "top", 
-      "location": [
-        60.654336, 
-        -6.393493
-      ], 
-      "rotate": 0, 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -7706,7 +7706,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -44.73092, 
@@ -7725,7 +7725,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -40.779812, 
@@ -7744,7 +7744,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         2.68241, 
@@ -7801,7 +7801,7 @@
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -60.53536, 
