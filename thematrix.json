@@ -1,5 +1,38 @@
 {
   "components": {
+    "AS1130": {
+      "assembly": {
+        "refdef": {
+          "font-size": "0.8", 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }, 
+      "footprint": "AS1130-BSST-SSOP28", 
+      "layer": "bottom", 
+      "location": [
+        40.017299, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "font-size": "1.3", 
+          "location": [
+            0, 
+            -6.1
+          ], 
+          "rotate": 0, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
     "C1": {
       "assembly": {
         "refdef": {
@@ -13,7 +46,7 @@
       "footprint": "0805-cap", 
       "layer": "bottom", 
       "location": [
-        38.159807, 
+        35.35547, 
         9.147331
       ], 
       "rotate": 90, 
@@ -46,7 +79,7 @@
       "footprint": "0805-cap", 
       "layer": "bottom", 
       "location": [
-        35.35547, 
+        38.159807, 
         9.147331
       ], 
       "rotate": 90, 
@@ -60,33 +93,6 @@
           ], 
           "rotate": 90, 
           "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }
-    }, 
-    "IC1": {
-      "assembly": {
-        "refdef": {
-          "font-size": "0.8", 
-          "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }, 
-      "footprint": "AS1130-BSST-SSOP28", 
-      "layer": "bottom", 
-      "location": [
-        40.017299, 
-        0
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
         }, 
         "shapes": {
           "show": true
@@ -113,7 +119,12 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "font-size": "1.3", 
+          "location": [
+            -8.868244, 
+            -2.931741
+          ], 
+          "show": true
         }, 
         "shapes": {
           "show": false
@@ -133,14 +144,19 @@
       "footprint": "ffc-0p5mm-8contact-te-1734592-8", 
       "layer": "bottom", 
       "location": [
-        58.32373, 
+        58.888174, 
         5.133977
       ], 
       "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "font-size": "1.3", 
+          "location": [
+            3.386666, 
+            1.25796
+          ], 
+          "show": true
         }, 
         "shapes": {
           "show": false
@@ -167,7 +183,12 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "font-size": "1.3", 
+          "location": [
+            3.386666, 
+            1.25796
+          ], 
+          "show": true
         }, 
         "shapes": {
           "show": false
@@ -187,8 +208,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        35.35547, 
-        -8.463159
+        40.964156, 
+        9.147331
       ], 
       "rotate": 90, 
       "show": true, 
@@ -196,8 +217,8 @@
         "refdef": {
           "font-size": "1.3", 
           "location": [
-            0, 
-            -1.8
+            -2.5, 
+            -0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -208,39 +229,6 @@
       }
     }, 
     "R2": {
-      "assembly": {
-        "refdef": {
-          "font-size": "0.8", 
-          "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        43.768499, 
-        -8.463818
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "font-size": "1.3", 
-          "location": [
-            0, 
-            -1.8
-          ], 
-          "rotate": 90, 
-          "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }
-    }, 
-    "R3": {
       "assembly": {
         "refdef": {
           "font-size": "0.8", 
@@ -273,7 +261,7 @@
         }
       }
     }, 
-    "R4": {
+    "R3": {
       "assembly": {
         "refdef": {
           "font-size": "0.8", 
@@ -306,6 +294,39 @@
         }
       }
     }, 
+    "R4": {
+      "assembly": {
+        "refdef": {
+          "font-size": "0.8", 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        35.35547, 
+        -8.463159
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "font-size": "1.3", 
+          "location": [
+            0, 
+            -1.8
+          ], 
+          "rotate": 90, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
     "R5": {
       "assembly": {
         "refdef": {
@@ -319,8 +340,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        40.964156, 
-        9.147331
+        43.768499, 
+        -8.463818
       ], 
       "rotate": 90, 
       "show": true, 
@@ -328,8 +349,8 @@
         "refdef": {
           "font-size": "1.3", 
           "location": [
-            -2.5, 
-            -0.0
+            0, 
+            -1.8
           ], 
           "rotate": 90, 
           "show": true
@@ -466,10 +487,10 @@
       "footprint": "eurocircuits-logo", 
       "layer": "top", 
       "location": [
-        42.151066, 
-        -9.478378
+        42.789956, 
+        -9.350604
       ], 
-      "scale": 0.95, 
+      "scale": 1.05, 
       "show": true
     }, 
     "HEAD-LEG": {
