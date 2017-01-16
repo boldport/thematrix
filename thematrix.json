@@ -109,10 +109,10 @@
           "show": true
         }
       }, 
-      "footprint": "1x8-2p54-header", 
+      "footprint": "1x8-2p54-header-long-pads", 
       "layer": "bottom", 
       "location": [
-        49.93285, 
+        51.772218, 
         0
       ], 
       "rotate": 90, 
@@ -123,70 +123,6 @@
           "location": [
             -8.868244, 
             -2.931741
-          ], 
-          "show": true
-        }, 
-        "shapes": {
-          "show": false
-        }
-      }
-    }, 
-    "J2": {
-      "assembly": {
-        "refdef": {
-          "font-size": "0.8", 
-          "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }, 
-      "footprint": "ffc-0p5mm-8contact-te-1734592-8", 
-      "layer": "bottom", 
-      "location": [
-        58.888174, 
-        5.133977
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "font-size": "1.3", 
-          "location": [
-            3.386666, 
-            1.25796
-          ], 
-          "show": true
-        }, 
-        "shapes": {
-          "show": false
-        }
-      }
-    }, 
-    "J3": {
-      "assembly": {
-        "refdef": {
-          "font-size": "0.8", 
-          "show": true
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }, 
-      "footprint": "ffc-0p5mm-8contact-te-1734592-8", 
-      "layer": "bottom", 
-      "location": [
-        56.693095, 
-        -5.133977
-      ], 
-      "rotate": -90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "font-size": "1.3", 
-          "location": [
-            3.386666, 
-            1.25796
           ], 
           "show": true
         }, 
@@ -468,9 +404,10 @@
       "footprint": "ams-logo", 
       "layer": "top", 
       "location": [
-        54.381232, 
-        -9.032379
+        59.784269, 
+        3.006449
       ], 
+      "rotate": -90, 
       "scale": 1.2, 
       "show": true
     }, 
@@ -487,17 +424,18 @@
       "footprint": "eurocircuits-logo", 
       "layer": "top", 
       "location": [
-        42.789956, 
-        -9.350604
+        55.249761, 
+        8.798908
       ], 
-      "scale": 1.05, 
+      "rotate": -90, 
+      "scale": 1.15, 
       "show": true
     }, 
     "HEAD-LEG": {
       "footprint": "pin-header-legend", 
       "layer": "bottom", 
       "location": [
-        48.989216, 
+        55.762544, 
         -0.005386
       ], 
       "show": true
@@ -518,6 +456,16 @@
         0, 
         0
       ], 
+      "show": true
+    }, 
+    "SUP-TEXT": {
+      "footprint": "sponsored-by", 
+      "layer": "top", 
+      "location": [
+        55.542109, 
+        -5.396993
+      ], 
+      "rotate": -90, 
       "show": true
     }
   }, 
