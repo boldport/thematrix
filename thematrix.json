@@ -467,6 +467,16 @@
       ], 
       "rotate": -90, 
       "show": true
+    }, 
+    "THE-MAT": {
+      "footprint": "the-matrix", 
+      "layer": "bottom", 
+      "location": [
+        60.257035, 
+        0
+      ], 
+      "rotate": -90, 
+      "show": true
     }
   }, 
   "soldermask": {
