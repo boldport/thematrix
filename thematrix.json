@@ -404,8 +404,8 @@
       "footprint": "ams-logo", 
       "layer": "top", 
       "location": [
-        59.784269, 
-        3.006449
+        59.474786, 
+        3.377829
       ], 
       "rotate": -90, 
       "scale": 1.2, 
@@ -424,8 +424,8 @@
       "footprint": "eurocircuits-logo", 
       "layer": "top", 
       "location": [
-        55.249761, 
-        8.798908
+        54.940278, 
+        8.543947
       ], 
       "rotate": -90, 
       "scale": 1.15, 
@@ -462,8 +462,8 @@
       "footprint": "sponsored-by", 
       "layer": "top", 
       "location": [
-        55.542109, 
-        -5.396993
+        50.624228, 
+        -4.994665
       ], 
       "rotate": -90, 
       "show": true
@@ -476,6 +476,16 @@
         0
       ], 
       "rotate": -90, 
+      "show": true
+    }, 
+    "WIRES": {
+      "footprint": "wire-matrix", 
+      "layer": "top", 
+      "location": [
+        40.136739, 
+        -0.65745
+      ], 
+      "rotate": 0, 
       "show": true
     }
   }, 
