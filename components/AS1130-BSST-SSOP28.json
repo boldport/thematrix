@@ -275,13 +275,19 @@
           "height": 10.7,
           "style": "stroke",
           "stroke-width": 0.2,
-          "location": [0, 0]
+          "location": [0, 0],
+          "radii": {
+            "bl": 0.25, 
+            "br": 0.25, 
+            "tl": 0, 
+            "tr": 0.25
+          }
         },
         {
           "type": "circle",
-          "diameter": 0.4,
+          "diameter": 0.6,
           "style": "fill",
-          "location": [-3.6, 5]
+          "location": [-3.8, 5.2]
         }
       ]
     },
